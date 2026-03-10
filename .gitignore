@@ -2,6 +2,9 @@
 node_modules/
 frontend/node_modules/
 
+# TypeScript build info
+*.tsbuildinfo
+
 # build output
 frontend/dist/
 
